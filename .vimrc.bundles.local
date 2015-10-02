@@ -1,0 +1,2 @@
+Plug 'chriskempson/vim-tomorrow-theme'
+Plug 'nathanaelkane/vim-indent-guides'
