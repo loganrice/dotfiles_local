@@ -1,1 +1,10 @@
 colorscheme Tomorrow-Night
+let g:ruby_fold_lines_limit = 200
+
+set foldenable
+set foldlevel=2
+set shiftwidth=2
+set ff=unix
+set background=dark
+setlocal foldmethod=indent
+
