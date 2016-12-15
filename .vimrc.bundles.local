@@ -1,3 +1,4 @@
 Plug 'chriskempson/vim-tomorrow-theme'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'godlygeek/tabular'
+Plug 'mattn/emmet-vim'
